@@ -1,0 +1,12 @@
+# Window Settings
+WIDTH = 1280
+HEIGHT = 720
+FPS = 60
+
+# Colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+
+# Particles
+NUM_PARTICLES = 10000
+PARTICLE_SIZE = 2
